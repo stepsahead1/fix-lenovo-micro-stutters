@@ -6,3 +6,4 @@
 - Switch from Display scaling to GPU scaling
 - Disable variable frequency in intel graphics software
 - Switch from Auto to Optimus in Nvidia settings
+- Activate low latency
